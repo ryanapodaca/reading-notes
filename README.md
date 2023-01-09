@@ -17,7 +17,7 @@ This fact warrants optimism and encourages resilience in the face of challenges 
 
 Here are my reminders concerning growth mindset.
 
-1. hard work and diligence beats innate talent ultimately.
+1. Hard work and diligence beats innate talent ultimately.
 2. There will always be unknown variables when measuring intelligence.
 3. Relevance realization is more powerful than analytic facility if it is without aim.
 
