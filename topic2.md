@@ -1,4 +1,4 @@
-#text editors vs. IDEs
+# text editors vs. IDEs
 
 There exists three kinds of editors for implementation:
 
