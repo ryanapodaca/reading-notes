@@ -1,8 +1,8 @@
 # reading-notes
 
-Reading Journal For Code Fellows
+**Reading Journal For Code Fellows**
 
-Hello, my name is Ryan Apodaca.
+*Hello, my name is Ryan Apodaca.*
 
 Here a few facts about myself:
 
@@ -16,9 +16,9 @@ This website documents notable concepts and methodologies within the CodeFellows
 
 ## Notes for 102
 
-[Topic 1](102Topic1.md)
+[Topic 1](102/102Topic1.md)
 
-[Topic 2](102Topic2.md)
+[Topic 2](102/102Topic2.md)
 
 [Topic 3](102Topic3.md)
 
