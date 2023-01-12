@@ -20,47 +20,47 @@ This website documents notable concepts and methodologies within the CodeFellows
 
 [Topic 2](102/102Topic2.md)
 
-[Topic 3](102Topic3.md)
+[Topic 3](102/102Topic3.md)
 
-[Topic 4](102Topic4.md)
+[Topic 4](102/102Topic4.md)
 
-[Topic 5](102Topic5.md)
+[Topic 5](102/102Topic5.md)
 
-[Topic 6](102Topic6.md)
+[Topic 6](102/102Topic6.md)
 
-[Topic 7](102Topic7.md)
+[Topic 7](102/102Topic7.md)
 
-[Topic 8](102Topic8.md)
+[Topic 8](102/102Topic8.md)
 
 
 ## Notes for 201
 
-[Topic 1](201Topic1.md)
+[Topic 1](201/201Topic1.md)
 
-[Topic 2](201Topic2.md)
+[Topic 2](201/201Topic2.md)
 
-[Topic 3](201Topic3.md)
+[Topic 3](201/201Topic3.md)
 
-[Topic 4](201Topic4.md)
+[Topic 4](201/201Topic4.md)
 
-[Topic 5](201Topic5.md)
+[Topic 5](201/201Topic5.md)
 
-[Topic 6](201Topic6.md)
+[Topic 6](201/201Topic6.md)
 
-[Topic 7](201Topic7.md)
+[Topic 7](201/201Topic7.md)
 
-[Topic 8](201Topic8.md)
+[Topic 8](201/201Topic8.md)
 
-[Topic 9](201Topic9.md)
+[Topic 9](201/201Topic9.md)
 
-[Topic 10](201Topic10.md)
+[Topic 10](201/201Topic10.md)
 
-[Topic 11](201Topic11.md)
+[Topic 11](201/201Topic11.md)
 
-[Topic 12](201Topic12.md)
+[Topic 12](201/201Topic12.md)
 
-[Topic 13](201Topic13.md)
+[Topic 13](201/201Topic13.md)
 
-[Topic 14](201Topic14.md)
+[Topic 14](201/201Topic14.md)
 
-[Topic 15](201Topic15.md)
+[Topic 15](201/201Topic15.md)
