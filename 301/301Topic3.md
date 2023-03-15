@@ -38,8 +38,15 @@ let de = {...d,...e}
 
 ## Video
 
-Not accessable 
+In order to call functions from other components, you use the increment method from within the class object, and then make a props call within your increment method in the higher order object.
 
+The increment method functions to update the state of a component when a change of state has been detected.
+
+You can pass a method from from a parent into a child with props method.
+
+A parent's method can be invoked from a child by calling it as a function.  
+
+ 
 
 
 
